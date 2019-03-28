@@ -9,6 +9,6 @@ class EmailParser
   end
   
   def self.parse
-    
+    emails.split(/[])
   end
 end
